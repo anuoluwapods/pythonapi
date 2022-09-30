@@ -1,0 +1,7 @@
+streamlit==1.13.0
+pandas==1.2.0
+numpy==1.21.2
+json
+requests
+fastapi
+pydantic
