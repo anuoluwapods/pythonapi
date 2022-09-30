@@ -2,7 +2,6 @@ streamlit==1.13.0
 pandas==1.2.0
 numpy==1.21.2
 pip==22.2.2
-json
 requests
 fastapi
 pydantic
